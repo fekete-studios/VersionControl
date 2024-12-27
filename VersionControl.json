@@ -8,6 +8,9 @@
         "Improved some functions.",
         "Added version checker."
       ],
+      "files": {
+        "All.",
+      },
       "download_url": "https://portal.cfx.re/assets/granted-assets"
     },
     "FS-ScoreBoard": {
@@ -19,6 +22,9 @@
         "Optimized backend performance.",
         "Added show id over head option adnd command"
       ],
+       "files": {
+        "All.",
+      },
       "download_url": "https://portal.cfx.re/assets/granted-assets"
     }
   }
